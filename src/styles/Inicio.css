@@ -1,0 +1,66 @@
+.main{
+    color: var(--texto);
+    background-color: var(--background); 
+}
+
+.titulo{
+    font-size: 50px;
+}
+
+.titulo-2{
+    font-size: 25px;
+}
+
+.contenedor-nombre{
+    margin-top: 30px;
+}
+
+  .circular-image {
+    border: 3px solid green;
+    border-radius: 50%; /* Hace que la imagen sea circular */
+    max-width:  70%; /* La imagen se ajustará al ancho del contenedor */
+    height: auto; /* Mantiene la proporción de aspecto de la imagen */
+  }
+
+  .icon-style {
+    font-size: 2rem; /* Ajusta el tamaño según tus necesidades (2rem es solo un ejemplo) */
+    color: white; /* Cambia el color si es necesario */
+    margin-right: 10px;
+  }
+
+  .container-icon{
+    margin-top: 30px;
+  }
+
+  .link{
+    text-decoration: none; /* Quita la subrayado por defecto */
+  background-color: green; /* Color de fondo */
+  color: white; /* Color del texto */
+  padding: 10px 20px; /* Relleno */
+  border-radius: 5px; /* Bordes redondeados */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Sombra */
+  transition: background-color 0.3s ease; /* Transición suave */
+
+  /* Estilo al pasar el cursor sobre el enlace */
+  &:hover {
+    background-color: var(--principal); /* Cambia el color de fondo al pasar el cursor */
+  }
+  }
+
+  .logo-sizes{
+    height: 100px;
+    margin-top: 25px;
+    margin-right: 8px;
+  }
+
+#home{
+    margin-top: 50px;
+}
+
+#projects{
+    margin-top: 50px;
+}
+
+#stack{
+    margin-top: 50px;
+}
