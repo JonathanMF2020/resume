@@ -11,7 +11,7 @@ const ProjectCard = (props) => {
             </div>
             <hr className="line-solid p-2  mb-2"/>
             <div className="project-card-image">
-                <img src={props.imageurl} className="project-card-image-src" alt="image"/>
+                <img src={props.imageurl} className="project-card-image-src" alt="Referencia"/>
             </div>
             <hr className="line-solid p-2 mt-2 mb-2"/>
             <div className="project-card-text">
