@@ -5,7 +5,7 @@ import '../styles/Navbar.css'
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-custom p-4">
-      <a className="navbar-brand text-white" href="#">Mi Portafolio</a>
+      <p className="navbar-brand text-white">Mi Portafolio</p>
       <button
         className="navbar-toggler"
         type="button"
