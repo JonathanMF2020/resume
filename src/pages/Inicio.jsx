@@ -2,7 +2,6 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import '../styles/Inicio.css'
 import image from '../assets/my_picture.jfif';
-import android from '../assets/android.jfif';
 import logoandroid from '../assets/android-logo.png';
 import logoios from '../assets/iOS-logo.png';
 import logoflutter from '../assets/flutter-logo.png';
@@ -74,40 +73,40 @@ const InicioPage = () => {
             <p className="text-center titulo-2">Technology Stack</p>
             <div className="row text-center">
                 <div className="col-12 col-sm-2">
-                    <img src={logoandroid} className="logo-sizes"/>
+                    <img src={logoandroid} className="logo-sizes" alt="Android"/>
                 </div>
                 <div className="col-12 col-sm-2">
-                    <img src={logoios} className="logo-sizes"/>
+                    <img src={logoios} className="logo-sizes" alt="iOS"/>
                 </div>
                 <div className="col-12 col-sm-2">
-                    <img src={logoflutter} className="logo-sizes"/>
+                    <img src={logoflutter} className="logo-sizes" alt="Flutter"/>
                 </div>
                 <div className="col-12 col-sm-2">
-                    <img src={logoflask} className="logo-sizes"/>
+                    <img src={logoflask} className="logo-sizes" alt="Flask"/>
                 </div>
                 <div className="col-12 col-sm-2">
-                    <img src={logospring} className="logo-sizes"/>
+                    <img src={logospring} className="logo-sizes" alt="Spring Boot"/>
                 </div>
                 <div className="col-12 col-sm-2">
-                    <img src={logolaravel} className="logo-sizes"/>
+                    <img src={logolaravel} className="logo-sizes" alt="Laravel"/>
                 </div>
                 <div className="col-12 col-sm-2">
-                    <img src={logonet} className="logo-sizes"/>
+                    <img src={logonet} className="logo-sizes" alt=".NET"/>
                 </div>
                 <div className="col-12 col-sm-2">
-                    <img src={logoangular} className="logo-sizes"/>
+                    <img src={logoangular} className="logo-sizes" alt="Angular"/>
                 </div>
                 <div className="col-12 col-sm-2">
-                    <img src={logoreact} className="logo-sizes"/>
+                    <img src={logoreact} className="logo-sizes" alt="React"/>
                 </div>
                 <div className="col-12 col-sm-2">
-                    <img src={logojenkins} className="logo-sizes"/>
+                    <img src={logojenkins} className="logo-sizes" alt="Jenkins"/>
                 </div>
                 <div className="col-12 col-sm-2">
-                    <img src={logogcp} className="logo-sizes"/>
+                    <img src={logogcp} className="logo-sizes" alt="GCP"/>
                 </div>
                 <div className="col-12 col-sm-2">
-                    <img src={logoaws} className="logo-sizes"/>
+                    <img src={logoaws} className="logo-sizes" alt="AWS"/>
                 </div>
                 
                 
