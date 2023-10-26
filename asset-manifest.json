@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/JonathanMF2020/resume/static/css/main.677121eb.css",
+    "main.js": "/JonathanMF2020/resume/static/js/main.a2fb753f.js",
+    "static/js/787.54baca61.chunk.js": "/JonathanMF2020/resume/static/js/787.54baca61.chunk.js",
+    "static/media/jenkins-logo.png": "/JonathanMF2020/resume/static/media/jenkins-logo.7495eae1f2974336a4e7.png",
+    "static/media/my_picture.jfif": "/JonathanMF2020/resume/static/media/my_picture.ff57e6c7ed1573698057.jfif",
+    "static/media/gcp-logo.png": "/JonathanMF2020/resume/static/media/gcp-logo.dade32d4d899f5e492e9.png",
+    "static/media/aws-logo.png": "/JonathanMF2020/resume/static/media/aws-logo.c3a8553d2aadc3f80df7.png",
+    "static/media/notice.jpg": "/JonathanMF2020/resume/static/media/notice.64f5cf4323ef5511940a.jpg",
+    "static/media/net-logo.png": "/JonathanMF2020/resume/static/media/net-logo.a10a4f42b4a18f594def.png",
+    "static/media/cv.pdf": "/JonathanMF2020/resume/static/media/cv.fc1fee487dcfa93fe553.pdf",
+    "static/media/react-logo.png": "/JonathanMF2020/resume/static/media/react-logo.3e9820dc44ddde88975e.png",
+    "static/media/angular-logo.png": "/JonathanMF2020/resume/static/media/angular-logo.17ca640487494f28400f.png",
+    "static/media/spring-boot-logo.png": "/JonathanMF2020/resume/static/media/spring-boot-logo.94f201ce44348763e6a5.png",
+    "static/media/laravel-logo.png": "/JonathanMF2020/resume/static/media/laravel-logo.8b2939ca7ad8851c40a2.png",
+    "static/media/flask-logo.png": "/JonathanMF2020/resume/static/media/flask-logo.7f66c78e2193b7d98681.png",
+    "index.html": "/JonathanMF2020/resume/index.html",
+    "main.677121eb.css.map": "/JonathanMF2020/resume/static/css/main.677121eb.css.map",
+    "main.a2fb753f.js.map": "/JonathanMF2020/resume/static/js/main.a2fb753f.js.map",
+    "787.54baca61.chunk.js.map": "/JonathanMF2020/resume/static/js/787.54baca61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.677121eb.css",
+    "static/js/main.a2fb753f.js"
+  ]
+}
